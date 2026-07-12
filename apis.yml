@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://open.toronto.ca/
 common:
+  - type: DomainSecurity
+    url: security/city-toronto-open-data-domain-security.yml
   - type: Website
     url: https://open.toronto.ca/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://open.toronto.ca/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
