@@ -39,7 +39,6 @@ apis:
   - name: City, Toronto Open Data
     description: "Toronto (CA) City Open Data"
     humanURL: https://open.toronto.ca/
-    baseURL: https://open.toronto.ca/
     tags:
       - Government
     properties:
